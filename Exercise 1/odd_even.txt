@@ -3,4 +3,7 @@
 Ask for a number
 Get the value and store it in a variable named 'num'
 
-If num can be 
+If num is divisible without a remainder
+  Say the value of num is even
+else 
+  Say the value of num is odd
