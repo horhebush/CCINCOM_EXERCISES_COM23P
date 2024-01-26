@@ -1,0 +1,7 @@
+Get initial cards
+Determine the total value of the cards
+
+If total value => 17
+    Say Stand
+Else
+    Say Hit
